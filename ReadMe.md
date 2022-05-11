@@ -9,7 +9,7 @@ Approach:
 - A plain javascript class was written to display gragh.
 - A Map Class was extened to store data and then server to the Table component (smart-table) and Canvas.
 
-Not to over complecate thing but a server side event or an websocket can be used to update DOM from the server. Also using Observer pattern or Event driven approach along with web workers can make this little task more lively and slick.
+Not to over complicate thing but a server side event or an websocket can be used to update DOM from the server. Also using Observer pattern or Event driven approach along with web workers can make this little task more lively and slick.
  
  I would realy like to have a feedback and looking forward to it :).
 
